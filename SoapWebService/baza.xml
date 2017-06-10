@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recnik>
+   <par>
+       <engleski>world</engleski>
+       <srpski>svet</srpski>
+   </par> 
+   <par>
+       <engleski>ball</engleski>
+       <srpski>lopta</srpski>
+   </par> 
+   <par>
+       <engleski>see</engleski>
+       <srpski>more</srpski>
+   </par> 
+   <par>
+       <engleski>sun</engleski>
+       <srpski>sunce</srpski>
+   </par> 
+   <par>
+       <engleski>river</engleski>
+       <srpski>reka</srpski>
+   </par> 
+   <par>
+       <engleski>mountain</engleski>
+       <srpski>planina</srpski>
+   </par> 
+   <par>
+       <engleski>school</engleski>
+       <srpski>skola</srpski>
+   </par> 
+   <par>
+       <engleski>academy</engleski>
+       <srpski>akademija</srpski>
+   </par> 
+   <par>
+       <engleski>song</engleski>
+       <srpski>pesma</srpski>
+   </par> 
+</recnik>
